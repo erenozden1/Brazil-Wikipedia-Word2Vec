@@ -7,3 +7,4 @@ EMBED_DIM        = 100
 NUM_NEG          = 5
 WINDOW_SIZE      = 5
 EPOCHS           = 15
+LEARNING_RATE    = 0.025
