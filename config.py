@@ -1,0 +1,9 @@
+SEED             = 42
+MIN_COUNT        = 2
+SUBSAMPLE_THRESHOLD = 1e-4
+NOISE_ALPHA      = 0.75
+NOISE_TABLE_SIZE = 1_000_000
+EMBED_DIM        = 100
+NUM_NEG          = 5
+WINDOW_SIZE      = 5
+EPOCHS           = 15
